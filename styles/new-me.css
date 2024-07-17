@@ -333,6 +333,7 @@ button#btn-primary\ Subscribe {
             .common-container.footer-con {
                
                 flex-direction: column;
+                padding-bottom: 20px;
              
             }
 
@@ -351,9 +352,16 @@ button#btn-primary\ Subscribe {
 
             .footer-input {
                 text-align: center;
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              align-items: center;
+              
+               
                
             }
 
+            
             h3.footer-input-title {
                 margin-bottom: 20px;
             }
