@@ -57,7 +57,7 @@ border:none
 
 
 .header-container {
-   border:1px solid red;
+   /* border:1px solid red; */
     text-align: right;
     padding: 200px 250px ;
 }
